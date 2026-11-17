@@ -44,11 +44,12 @@ GitHub: ................. @oguguca
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Full Stack** com foco em **TypeScript**. Gosto de tirar ideias do papel e transformar em produtos de verdade: do front-end ao back-end, passando por banco de dados, automações e deploy. Uno o desenvolvimento de aplicações a uma base sólida de infraestrutura, para entregar sistemas rápidos, seguros e fáceis de manter.
+Sou desenvolvedor Full Stack, gosto de tirar ideias do papel e transformar em produtos de verdade do front-end ao back-end, passando por banco de dados, automações e deploy. Uno o desenvolvimento de aplicações a uma base sólida de infraestrutura, para entregar sistemas rápidos, seguros e fáceis de manter.
 
-- 💻 Construindo projetos como o **personal-panel**, **corte-viral** e **Largadia**
-- 🌐 Criando sites rápidos com **Astro** para negócios reais
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela **UNIP**
+- 🏗️ Pós-graduado em **Arquitetura e Infraestrutura de TI** pela 
 - ⚙️ Automatizando tarefas e integrando sistemas para economizar tempo
+- 💻 Sempre construindo novos projetos e quebrando a cabeça com eles
 - 🔐 Estudando **Cyber Security** para construir aplicações mais seguras
 - 🤝 Aberto a colaborar em projetos open source
 
