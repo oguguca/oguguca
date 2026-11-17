@@ -19,7 +19,7 @@
 </div>
 
 ```yaml
-gustavo@oguguca
+@oguguca
 ───────────────────────────────────────────────
 Nome: ................... Gustavo Parpinelli
 Local: .................. São Paulo, SP
