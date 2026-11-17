@@ -34,11 +34,11 @@ Linguagens.Frameworks: .. React, Next.js, Astro, Node.js
 Linguagens.Reais: ....... Português, Inglês
 
 Atuação.Foco: ........... Web apps, painéis e automações
-Aprendendo: ............. O QUE VOCÊ ESTÁ ESTUDANDO
+Aprendendo: ............. Cyber Security
 
 ─ Contato ─────────────────────────────────────
-Email: .................. seuemail@gmail.com
-LinkedIn: ............... in/SEU-LINKEDIN
+Email: .................. parpinelli.gu@gmail.com
+LinkedIn: ............... www.linkedin.com/in/gustavo-parpinelli/
 GitHub: ................. @oguguca
 ```
 
